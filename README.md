@@ -1,2 +1,3 @@
 # edesgree.github.io
-personal page
+
+personal card info (code @ https://github.com/edesgree/react-pagecard)
